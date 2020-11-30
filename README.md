@@ -61,7 +61,7 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 ### Simple Ordinary Least Squares (OLS) Linear Regression 
 Positive beta coefficient values indicate positive correlations between that socioeconomic characteristic and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
 
-<img src="./img/OLS_9var_betas.png" width="800" height = "400"> <br/>
+<img src="./img/OLS_9var_betas.png" width="800" height = "300"> <br/>
 
 The fraction of observed, precinct-level variance in candidate preference that is explained by a simple 9-variable OLS model. R2 of 1.0 = 100%, R2 of 0.0 = 0%. <br/>
 
