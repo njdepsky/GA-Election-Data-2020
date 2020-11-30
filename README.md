@@ -6,7 +6,7 @@ Collection of datasets and analysis from Georgia's 2020 General Election
 **GA_GenElecRes2020_precinct_wACS** <br/>
 Available both as a CSV (no spatial geometry) and as a spatial GeoJSON file (stored in .zip file) of Georgia's 2020 general election voting precints (n=2683). Boundary geometries represented in the GeoJSON were obtained from: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Voting and Election Science Team, 2020, "2020 Precinct Shapefiles", https://doi.org/10.7910/DVN/XPW7T7, Harvard Dataverse, V5*
+*Voting and Election Science Team, 2020, "2020 Precinct Shapefiles", https://doi.org/10.7910/DVN/XPW7T7, Harvard Dataverse, V5*
 
 It also contains complete precinct-level election results from the November 3, 2020 general election for the presidential and senate races, expressed in terms of total votes for each candidate broken down by voting method. These results were obtained from the [Georgia Secretary of State (SoS)](https://results.enr.clarityelections.com/GA/105369/web.264614/#/access-to-races).
 
