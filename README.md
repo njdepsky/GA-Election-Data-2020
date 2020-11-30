@@ -55,10 +55,10 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 <img src="./img/GA_GE2020_SpecialSenatePct.jpg" width="800" height = "400"> <br/><br/>
 
 ## ACS Variable Examples
-<img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/>
+<img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/><br/><br/>
 
 ## Assessing Significant ACS-variable Predictors of Candidate Preference 
-### Using Simple Ordinary Least Squares (OLS) Linear Regression 
+### Simple Ordinary Least Squares (OLS) Linear Regression 
 Positive beta coefficient values indicate positive correlations between that socioeconomic characteristic and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
 
 <img src="./img/OLS_9var_betas.png" width="800" height = "400"> <br/>
