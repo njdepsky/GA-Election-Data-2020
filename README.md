@@ -57,6 +57,7 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 ## ACS Variable Examples
 <img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/>
 
-## Simple Ordinary Least Squares (OLS) Models to Assess Significant ACS-variable Predictors of Candidate Preference
+## Assessing Significant ACS-variable Predictors of Candidate Preference 
+### Using Simple Ordinary Least Squares (OLS) Linear Regression  
 <img src="./img/OLS_9var_betas.png" width="800" height = "400">
 <img src="./img/R2_OLS_9var.png" width="800" height = "400">
