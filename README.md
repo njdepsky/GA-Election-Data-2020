@@ -65,4 +65,4 @@ Positive beta coefficient values indicate positive correlations between that soc
 
 The fraction of observed, precinct-level variance in candidate preference that is explained by a simple 9-variable OLS model. R2 of 1.0 = 100%, R2 of 0.0 = 0%. <br/>
 
-<img src="./img/R2_OLS_9var.png" width="800" height = "400">
+<img src="./img/R2_OLS_9var.png" width="980" height = "420">
