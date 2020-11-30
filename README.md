@@ -19,5 +19,4 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 ## Election Results Examples
 <img src="./img/GA_GE2020_BidenOssoffPct.jpg" width="800" height = "400">
 
-<img src="./img/GA_GE2020_SpecialSenatePct.jpg" width="800" height = "400">
-
+<img src="./img/GA_GE2020_SpecialSenatePct.jpg" width="800" height = "400"> <br/><br/>
