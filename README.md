@@ -1,7 +1,8 @@
 # GA-Election-Data-2020
 Collection of datasets and analysis from Georgia's 2020 General Election
 
-## Contents (/data folder)
+## Contents 
+#### (/data folder)
 **GA_GenElecRes2020_precinct_wACS** <br/>
 Available both as a CSV (no spatial geometry) and as a spatial GeoJSON file (stored in .zip file) of Georgia's 2020 general election voting precints (n=2683). Boundary geometries represented in the GeoJSON were obtained from: 
 
