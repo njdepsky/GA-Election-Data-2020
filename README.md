@@ -55,9 +55,7 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 <img src="./img/GA_GE2020_SpecialSenatePct.jpg" width="800" height = "400"> <br/><br/>
 
 ## ACS Variable Examples
-<img src="./img/MedHHInc.png" width="734" height = "826">
-<img src="./img/NoHlthCovg.png" width="734" height = "826">
-<img src="./img/BlackPop.png" width="734" height = "826"> <br/><br/>
+<img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/>
 
 ## Simple Ordinary Least Squares (OLS) Models to Assess Significant ACS-variable Predictors of Candidate Preference
 <img src="./img/OLS_9var_betas.png" width="800" height = "400">
