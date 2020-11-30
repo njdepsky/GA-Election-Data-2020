@@ -14,7 +14,7 @@ There are also 31 socioeconomic variables derived from the 2014-2018 American Co
 
 **NOTE:** These ACS values do NOT represent the exact characteristics of 2020 election voters, but rather estimated charcteristics of residents living within precincts according to the 2014-2018 ACS. 
 
-Included variables are:
+Included ACS variables are:
 * Total Population
 * Voting Age Population (18 or older)
 * No. Households
