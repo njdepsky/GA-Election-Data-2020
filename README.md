@@ -19,5 +19,5 @@ There are also 31 socioeconomic variables derived from the 2014-2018 American Co
 
 Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.geojson
 
-![](./img/GA_BGE2020_BidenPct.jpg){height=600px width=400px}
+![](./img/GA_BGE2020_BidenPct.jpg width="200" height = "400")
 
