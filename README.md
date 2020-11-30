@@ -62,7 +62,8 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
     * Toombs (5 precincts)
     * Treutlen (2 precincts)
     * Wheeler (2 precincts) <br/>
-Precincts missing these values have NA values in their voter turnout fields
+
+    Voter turnout values for these precincts are reported as NA.
 
 * 27/2683 precincts in the Harvard Dataverse GA-precinct shapefile do not have corresponding election results report by the SoS. 20 of these are located in Fulton County. The remaining 7 do not contain any county or precinct identifier information in the Harvard Dataverse file and therfore couldn't be mapped to election results. All 27 of these look to be predominantly unpopulated/non-residential/open space areas.
 
