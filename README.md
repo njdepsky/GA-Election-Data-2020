@@ -48,7 +48,7 @@ Included ACS variables are:
 * Fraction Without Health Insurance <br/><br/>
 
 **metadata.csv** <br/>
-Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.geojson <br/><br/>
+Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <br/><br/>
 
 ## Known Data Issues
 * Voter turnout: Registered voter totals are not reported (are entered as 0 values on SoS webpage) for 76 precints in the following counties:
@@ -82,7 +82,7 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS.ge
 
 ## Assessing Significant ACS-variable Predictors of Candidate Preference 
 ### Simple Ordinary Least Squares (OLS) Linear Regression 
-Positive beta coefficient values indicate positive correlations between that socioeconomic characteristic and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
+Positive beta coefficient values indicate positive correlations between that variable and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
 
 <img src="./img/OLS_9var_betas.png" width="805" height = "376"> <br/>
 
