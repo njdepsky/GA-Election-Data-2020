@@ -15,9 +15,6 @@ There are also 31 socioeconomic variables derived from the 2014-2018 American Co
 **NOTE:** These ACS values do NOT represent the exact characteristics of 2020 election voters, but rather estimated charcteristics of residents living within precincts according to the 2014-2018 ACS. 
 
 Included ACS variables are:
-* Total Population
-* Voting Age Population (18 or older)
-* No. Households
 * Fraction Male
 * Fraction Female
 * Median Age (Total Pop.)
@@ -50,7 +47,7 @@ Included ACS variables are:
 **metadata.csv** <br/>
 Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <br/><br/>
 
-## Known Data Issues
+## Known Data Issues 
 * Voter turnout: Registered voter totals are not reported (are entered as 0 values on SoS webpage) for 76 precints in the following counties:
     * Bleckley (1 precinct)
     * Chatham (1/92 precincts)
