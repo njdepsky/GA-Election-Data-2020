@@ -52,6 +52,9 @@ Included ACS variables are:
 **metadata.csv** <br/>
 Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <br/><br/>
 
+## ACS Variable Examples
+<img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/>
+
 ## Known Data Issues 
 * Voter turnout: Registered voter totals are not reported (are entered as 0 values on SoS webpage) for 76 precints in the following counties:
     * Bleckley (1 precinct)
@@ -72,11 +75,7 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <b
 
 * Some block groups in the ACS dataset obtained lacked data for certain variables. If some portion of a precinct area lacked overlapping block group values, that area was excluded from the precinct's final area-weighted-average value. However, 2 precincts had no overlapping block group data for median household income and 49 precincts lacked data for median rent. These missing values are reported as NA.
 
-
 <br/><br/>
-
-## ACS Variable Examples
-<img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/><br/><br/>
 
 ## Assessing Significant ACS-variable Predictors of Candidate Preference 
 ### Simple Ordinary Least Squares (OLS) Linear Regression 
