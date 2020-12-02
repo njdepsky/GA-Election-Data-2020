@@ -55,6 +55,16 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <b
 ## ACS Variable Examples
 <img src="./img/ACSvars.png" width="800" height = "300"> <br/><br/>
 
+## Assessing Significant ACS-variable Predictors of Candidate Preference 
+### Simple Ordinary Least Squares (OLS) Linear Regression 
+Positive beta coefficient values indicate positive correlations between that variable and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
+
+<img src="./img/OLS_9var_betas.png" width="805" height = "376"> <br/>
+
+The fraction of observed, precinct-level variance in candidate preference that is explained by a simple 9-variable OLS model. R2 of 1.0 = 100%, R2 of 0.0 = 0%. <br/>
+
+<img src="./img/R2_OLS_9var.png" width="735" height = "315">
+
 ## Known Data Issues 
 * Voter turnout: Registered voter totals are not reported (are entered as 0 values on SoS webpage) for 76 precints in the following counties:
     * Bleckley (1 precinct)
@@ -74,15 +84,3 @@ Descriptions of all attribute fields found in GA_GenElecRes2020_precinct_wACS <b
 * 27/2683 precincts in the Harvard Dataverse GA-precinct shapefile do not have corresponding election results report by the SoS. 20 of these are located in Fulton County. The remaining 7 do not contain any county or precinct identifier information in the Harvard Dataverse file and therfore couldn't be mapped to election results. All 27 of these look to be predominantly unpopulated/non-residential/open space areas.
 
 * Some block groups in the ACS dataset obtained lacked data for certain variables. If some portion of a precinct area lacked overlapping block group values, that area was excluded from the precinct's final area-weighted-average value. However, 2 precincts had no overlapping block group data for median household income and 49 precincts lacked data for median rent. These missing values are reported as NA.
-
-<br/><br/>
-
-## Assessing Significant ACS-variable Predictors of Candidate Preference 
-### Simple Ordinary Least Squares (OLS) Linear Regression 
-Positive beta coefficient values indicate positive correlations between that variable and a tendency to favor a given candidate. Negative values imply the inverse. <br/>
-
-<img src="./img/OLS_9var_betas.png" width="805" height = "376"> <br/>
-
-The fraction of observed, precinct-level variance in candidate preference that is explained by a simple 9-variable OLS model. R2 of 1.0 = 100%, R2 of 0.0 = 0%. <br/>
-
-<img src="./img/R2_OLS_9var.png" width="735" height = "315">
